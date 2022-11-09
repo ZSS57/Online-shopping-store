@@ -1,0 +1,110 @@
+let shopItemData = [{
+    id:"abc",
+    name:"Casual Shirt",
+    price : 45,
+    desc: "Grindle Trim Fit Flannel Button-Down Shirt (Regular, Big & Tall).",
+    img: "images/img-1.jpg"
+},{
+    id:"d",
+    name:"Office Shirt",
+    price : 100,
+    desc: "An all-time staple of British tailoring, there's nothing quite like a twill shirt.",
+    img: "images/img-2.jpg"
+},{
+    id:"e",
+    name:"T Shirt",
+    price : 25,
+    desc: "Short sleeves and a round neckline, comfort stretch,(small, medium, big).",
+    img: "images/img-3.jpg"
+},{
+    id:"f",
+    name:"Mens Suit",
+    price : 300,
+    desc: "Athletic fit stretch blazer - Blue (comfort stretch,(small, medium, big  ).",
+    img: "images/img-4.jpg"
+},
+{
+    id: "w",
+    name: "Jean Jacket",
+    price: 60,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-13.jpg",
+  },
+  {
+    id: "x",
+    name: "Fashion shirts",
+    price: 50,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-14.jpg",
+  },
+  {
+    id: "y",
+    name: "Woman T-shirt",
+    price: 40,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-15.jpg",
+  },
+  {
+    id: "z",
+    name: "Sweatshirts",
+    price: 35,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-16.jpg",
+  },
+{
+    id: "thiecbawdjksadjk",
+    name: "Mens Tie",
+    price: 25,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-5.png",
+  },
+  {
+    id: "iuertrywebncdjksadjk",
+    name: "Casual shoes",
+    price: 200,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-6.png",
+  },
+  {
+    id: "thierytbvcbvzdhadjk",
+    name: "black suit",
+    price: 450,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-7.png",
+  },
+  {
+    id: "trfoiwfcnbcawdjksadjk",
+    name: "polo shirt",
+    price: 45,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-8.png",
+  },
+  {
+    id: "cbvxbcvsceldk",
+    name: "denim shirt",
+    price: 85,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-9.png",
+  },
+  {
+    id: "oiopijmjkhuihb",
+    name: "denim pants",
+    price: 120,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-10.png",
+  },
+  {
+    id: "oiopijewyiohbjhib",
+    name: "basic cap",
+    price: 35,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-11.png",
+  },
+  {
+    id: "rtytytuyuytyytbvncv",
+    name: "leather boots",
+    price: 350,
+    desc: "Super nice, comfortable, colorful (Regular, Big & Tall).",
+    img: "images/img-12.png",
+  },
+]; 
